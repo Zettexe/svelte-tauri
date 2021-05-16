@@ -1,2 +1,2 @@
 # Svelte Tauri Starter
-A minimal svelte + tauri starter project
+A minimal svelte + tauri starter project using vite
