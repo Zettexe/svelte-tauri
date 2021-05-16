@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "ck3-load-order-manager",
+    "productName": "svelte-tauri",
     "version": "0.1.0"
   },
   "build": {
@@ -53,7 +53,7 @@
     },
     "windows": [
       {
-        "title": "CK3 LOM",
+        "title": "Svelte in Tauri!",
         "width": 800,
         "height": 600,
         "resizable": true,
