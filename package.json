@@ -1,5 +1,5 @@
 {
-  "name": "ck3-load-order-manager",
+  "name": "svelte-tauri",
   "version": "0.0.0",
   "scripts": {
     "vite": "vite",
